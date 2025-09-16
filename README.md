@@ -7,21 +7,26 @@ I am particularly fascinated by how machine learning and automation are revoluti
 
 🛠️ Technical Skills:
 
-Programming Languages: Python, Java, C++, JavaScript, SQL
+💻 Programming Languages:
+🐍 Python | ☕ Java | ⚛️ C++ | 🌐 JavaScript | 🗄️ SQL
 
-Web Development: Flask (Backend), React (Frontend)
+🌐 Web Development:
+⚙️ Flask (Backend) | ⚛️ React (Frontend)
 
-Databases: PostgreSQL, MySQL
+🗄️ Databases:
+🐘 PostgreSQL | 🗄️ MySQL
 
-Cloud & DevOps: Docker, Git, GitHub, CI/CD principles
+☁️ Cloud & DevOps:
+🐳 Docker | 🔧 Git | 🧱 GitHub | 🚀 CI/CD principles
 
-Data Analytics & Machine Learning: Pandas, NumPy, scikit-learn, TensorFlow
+📊 Data Analytics & Machine Learning:
+🐼 Pandas | 🔢 NumPy | 🤖 scikit-learn | 🌟 TensorFlow
 
-Tools & Platforms: MS Excel, Builder.io, Prompt Engineering tools
+🛠️ Tools & Platforms:
+📊 MS Excel | 🔧 Builder.io | 💡 Prompt Engineering tools
 
-Software Development Methodologies: Agile, Scrum
-
-🚀 Key Projects & Experience:
+📋 Software Development Methodologies:
+🔄 Agile | 📑 Scrum
 🔧 Prompt Engineer @Soul AI
 Worked on fine-tuning prompts for large language models, improving response accuracy and relevance in AI-based applications. Collaborated closely with ML teams to deploy prompt-based automation solutions.
 
