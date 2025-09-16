@@ -1,48 +1,51 @@
-👋 Hi, I’m Yashwanth Varakuti – an Aspiring Software Engineer with a strong passion for Artificial Intelligence, Full-Stack Development, and Data-Driven Innovation.
-Currently pursuing B.Tech in Computer Science, specializing in Artificial Intelligence, I’m driven by the power of technology to solve real-world problems and create meaningful digital experiences.
+👋 Hi, I'm Yashwanth Varakuti
 
-💡 What I Do:
-I specialize in building scalable software solutions by combining modern programming languages, data analytics, and cloud technologies. My journey spans hands-on experience in software development, data engineering, and working with large-scale AI models.
-I am particularly fascinated by how machine learning and automation are revolutionizing industries, and I focus on applying these concepts to build smart applications.
+💻 Aspiring Software Engineer | Prompt Engineer @Soul AI | AI Enthusiast
 
-🛠️ Technical Skills:
+🔹 Passionate about building intelligent systems using AI, Full-Stack Development, and Data Analytics.  
+🔹 Strong in Python, Java, React, Flask, SQL, and Prompt Engineering with hands-on projects.
 
-💻 Programming Languages:
-🐍 Python | ☕ Java | ⚛️ C++ | 🌐 JavaScript | 🗄️ SQL
+## 💼 Coding Profile
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-blue)](https://codolio.com/profile/Yashwanthvarakuti)
 
-🌐 Web Development:
-⚙️ Flask (Backend) | ⚛️ React (Frontend)
+---
 
-🗄️ Databases:
-🐘 PostgreSQL | 🗄️ MySQL
+## 📫 Connect with Me  
+📧 Email: yashwanth.varakuti@example.com  
+🔗 LinkedIn: [Yashwanth Varakuti](https://www.linkedin.com/in/yashwanth-varakuti)  
+📱 Phone: +91 9876543210  
+💬 WhatsApp: +91 9876543210  
 
-☁️ Cloud & DevOps:
-🐳 Docker | 🔧 Git | 🧱 GitHub | 🚀 CI/CD principles
+---
 
-📊 Data Analytics & Machine Learning:
-🐼 Pandas | 🔢 NumPy | 🤖 scikit-learn | 🌟 TensorFlow
+🚀 **Languages and Tools:**
 
-🛠️ Tools & Platforms:
-📊 MS Excel | 🔧 Builder.io | 💡 Prompt Engineering tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)  
+![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java)  
+![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)  
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat-square&logo=postgresql)
 
-📋 Software Development Methodologies:
-🔄 Agile | 📑 Scrum
-🔧 Prompt Engineer @Soul AI
-Worked on fine-tuning prompts for large language models, improving response accuracy and relevance in AI-based applications. Collaborated closely with ML teams to deploy prompt-based automation solutions.
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)  
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)  
 
-🌐 Gitlytics – GitHub Analytics Platform
-A full-stack web app that tracks GitHub repository contributions and visualizes user activity.
-Built using Flask, React, and PostgreSQL, deployed via Docker. Enables developers and teams to monitor commit history, contributor stats, and trends for better decision-making.
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql)  
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
 
-🎯 Movie Recommendation System
-Developed a machine learning-based recommendation system using Python and collaborative filtering techniques. Integrated with a web interface to suggest personalized movie choices based on user behavior and preferences.
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)  
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat-square&logo=jupyter)
 
-📚 Continuous Learner & Open Source Contributor
-Actively exploring the latest in AI, cloud technologies, and modern frameworks. I regularly contribute to open-source projects and participate in coding challenges to sharpen my skills.
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat-square&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat-square&logo=numpy)  
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat-square&logo=scikitlearn)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat-square&logo=tensorflow)
 
-🌱 My Philosophy:
-I believe in continuous growth and collaboration. Every line of code, every dataset, and every architecture design helps me learn and build better solutions. My goal is to work in environments that challenge me, solve impactful problems, and push the boundaries of innovation.
+![MS Excel](https://img.shields.io/badge/-MS_Excel-333333?style=flat-square&logo=microsoft-excel)  
+![Builder.io](https://img.shields.io/badge/-Builder.io-333333?style=flat-square)  
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-333333?style=flat-square)
 
-📫 Let’s Connect:
-I’m open to collaborations, learning opportunities, and contributing to meaningful projects.
-Feel free to explore my repositories, reach out via GitHub, or connect with me on LinkedIn.
+---
+
+*“Strive to build solutions that make an impact and constantly keep learning.”* 🌱
