@@ -35,7 +35,6 @@ I enjoy working with large language models, creating efficient backend architect
 ### 🧱 Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)  
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java)  
-![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)  
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat-square&logo=postgresql)
 
