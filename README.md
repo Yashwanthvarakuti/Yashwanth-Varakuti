@@ -25,8 +25,8 @@ I enjoy working with large language models, creating efficient backend architect
 ## 📫 Connect with Me  
 📧 Email: yashwanth.varakuti@example.com  
 🔗 LinkedIn: [Yashwanth Varakuti](https://www.linkedin.com/in/yashwanth-varakuti)  
-📱 Phone: +91 9876543210  
-💬 WhatsApp: +91 9876543210  
+📱 Phone: +91 7032636033  
+💬 WhatsApp: +91 7032636033  
 
 ---
 
